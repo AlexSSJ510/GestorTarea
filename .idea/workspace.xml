@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c28b1a9-7e0f-4aa2-8a31-ddaa5ce50920" name="Changes" comment="Actualizar Proyecto Gestor Tareas" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexSSJ510&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexSSJ510/GestorTarea.git&quot;,
+    &quot;accountId&quot;: &quot;3b517fde-3fc2-4c6c-b6f4-a1c715ebe9b4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oPPOrLI7Qx3ojKLMTgXN02n0wV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_gestor_tareas.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_gestor_tareas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pr0y3ct0s/Gestor_tareas&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pr0y3ct0s\Gestor_tareas\src\vista" />
+      <recent name="D:\Pr0y3ct0s\Gestor_tareas\src\logica" />
+      <recent name="D:\Pr0y3ct0s\Gestor_tareas\tests" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c28b1a9-7e0f-4aa2-8a31-ddaa5ce50920" name="Changes" comment="" />
+      <created>1730768208264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730768208264</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Inicio Proyecto Gestor tareas">
+      <option name="closed" value="true" />
+      <created>1730768279584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768279584</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creacion archivos pruebas">
+      <option name="closed" value="true" />
+      <created>1730768412721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768412721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="se agrego Test_agregar tarea (rojo)">
+      <option name="closed" value="true" />
+      <created>1730768454933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768454933</updated>
+    </task>
+    <task id="LOCAL-00004" summary="se agrego Test_agregar tarea sin titulo (rojo)">
+      <option name="closed" value="true" />
+      <created>1730768470820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768470820</updated>
+    </task>
+    <task id="LOCAL-00005" summary="se agrego Test_marcar tarea completada (rojo)">
+      <option name="closed" value="true" />
+      <created>1730768497210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768497210</updated>
+    </task>
+    <task id="LOCAL-00006" summary="se agrego Test_eliminar tarea (rojo)">
+      <option name="closed" value="true" />
+      <created>1730768513933</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768513933</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creacion gestorTareas (logica)&#10;Todos los TESTS pasan (VERDE)">
+      <option name="closed" value="true" />
+      <created>1730768673610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768673610</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Actualizar Proyecto Gestor Tareas">
+      <option name="closed" value="true" />
+      <created>1730840811084</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730840811084</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Actualizar Proyecto Gestor Tareas">
+      <option name="closed" value="true" />
+      <created>1730840905386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730840905386</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicio Proyecto Gestor tareas" />
+    <MESSAGE value="Creacion archivos pruebas" />
+    <MESSAGE value="se agrego Test_agregar tarea (rojo)" />
+    <MESSAGE value="se agrego Test_agregar tarea sin titulo (rojo)" />
+    <MESSAGE value="se agrego Test_marcar tarea completada (rojo)" />
+    <MESSAGE value="se agrego Test_eliminar tarea (rojo)" />
+    <MESSAGE value="Creacion gestorTareas (logica)&#10;Todos los TESTS pasan (VERDE)" />
+    <MESSAGE value="Actualizar Proyecto Gestor Tareas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizar Proyecto Gestor Tareas" />
+  </component>
+</project>

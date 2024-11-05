@@ -1,0 +1,17 @@
+Index: tests/test_gestor_tareas.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import unittest\r\nfrom src.logica.gestor_tareas import GestorTareas\r\n\r\nclass TestGestorTareas(unittest.TestCase):\r\n\r\n    def setUp(self):\r\n        self.gestor = GestorTareas()\r\n\r\n    def test_agregar_tarea(self):\r\n        self.gestor.agregar_tarea(\"Tarea 1\", \"Descripción de la tarea 1\")\r\n        self.assertEqual(len(self.gestor.tareas), 1)\r\n        self.assertEqual(self.gestor.tareas[0].titulo, \"Tarea 1\")\r\n        self.assertEqual(self.gestor.tareas[0].descripcion, \"Descripción de la tarea 1\")\r\n\r\n    def test_agregar_tarea_sin_titulo(self):\r\n        with self.assertRaises(ValueError):\r\n            self.gestor.agregar_tarea(\"\", \"Descripción\")\r\n\r\n    def test_marcar_completada(self):\r\n        self.gestor.agregar_tarea(\"Tarea 1\", \"Descripción de la tarea 1\")\r\n        self.gestor.marcar_completada(0)\r\n        self.assertTrue(self.gestor.tareas[0].completada)\r\n\r\n    def test_eliminar_tarea(self):\r\n        self.gestor.agregar_tarea(\"Tarea 1\", \"Descripción de la tarea 1\")\r\n        self.gestor.eliminar_tarea(0)\r\n        self.assertEqual(len(self.gestor.tareas), 0)\r\n\r\n\r\nif __name__ == \"__main__\":\r\n    unittest.main()\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tests/test_gestor_tareas.py b/tests/test_gestor_tareas.py
+--- a/tests/test_gestor_tareas.py	(revision 3f789d4a8b8ca6f02881d8157220e6a9101df878)
++++ b/tests/test_gestor_tareas.py	(date 1730842716936)
+@@ -28,4 +28,4 @@
+ 
+ 
+ if __name__ == "__main__":
+-    unittest.main()
++    unittest.main()
+\ No newline at end of file
